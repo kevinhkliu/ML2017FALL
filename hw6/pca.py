@@ -11,7 +11,7 @@ reco = io.imread(test).reshape(-1)[:,np.newaxis].astype('float32')
 
 #read image
 print('read image ')    
-dirs = os.listdir(sys.argv[1])
+dirs = os.listdir(sys.argv[1] + '/')
 image = []
 for file in dirs:
     pic = io.imread(sys.argv[1] + file).flatten()
