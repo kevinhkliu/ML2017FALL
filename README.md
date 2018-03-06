@@ -6,7 +6,7 @@ Learning the basic theory of machine learning and various applications.
 
 # Contents
 hw0: Python prerequisite testing  
-hw1: **PM2.5 Prediction** using (linear) regression with gradient descent optimization. kaggle competition **Top 47%**  
+hw1: **PM2.5 Prediction** using (linear) regression with gradient descent optimization. [kaggle competition](https://www.kaggle.com/c/ml-2017fall-hw1) **Top 47%**  
 hw2: **Income Classification** using logistic regression and other machine learning approaches. kaggle competition **Top 4%**  
 hw3: **Image Sentiment Classification** using convolutional neural networks. kaggle competition **Top 28%**  
 hw4: **Text Sentiment Classification** using word embedding and recurrent neural networks.* kaggle competition **Top 10%**  
